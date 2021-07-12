@@ -29,3 +29,20 @@ Sample Designs
     ---------.|..|..|..|..|.---------
     ------------.|..|..|.------------
     ---------------.|.---------------
+    
+
+#2. Print decimal, octal, hexadecimal and binary numbers
+
+Given an integer,number, print the following values for each integer 1 from n to :
+
+(a.) Decimal
+(b.) Octal
+(c.) Hexadecimal (capitalized)
+(d.) Binary
+
+**Function Description**
+Complete the print_formatted function in the editor below.
+
+print_formatted has the following parameters:
+
+**int number:** the maximum value to print
